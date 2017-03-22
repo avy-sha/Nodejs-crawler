@@ -1,0 +1,12 @@
+{
+  "name"         : "Nodejs-crawler",
+  "version"      : "0.0.1",
+  "description"  : "details about any movie",
+  "main"         : "server.js",
+  "author"       : "Abhinav",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
